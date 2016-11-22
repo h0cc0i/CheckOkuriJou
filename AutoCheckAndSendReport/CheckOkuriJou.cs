@@ -230,7 +230,8 @@ namespace AutoCheckAndSendReport
                     _row["備考"] = txtBiKou.Text.Trim();
 
                     //Check duplicate before insert
-                    if ((_dtbDes.Rows.Count > 0) && Check図面Duplicate(txtZumen.Text, _dtbDes))
+
+                    if ((_dtbDes.Rows.Count > 0) && Check図面Duplicate(txtChumon.Text, _dtbDes))
                     {
                         MessageBox.Show("図面があるんですがご確認ください。");
                     }
@@ -360,12 +361,20 @@ namespace AutoCheckAndSendReport
             excelApp.Quit();
         }
 
-        public bool Check図面Duplicate(string _Zumen, System.Data.DataTable _dtb)
+        public bool Check図面Duplicate(string _Chumon, System.Data.DataTable _dtb)
         {
-            _dtb.DefaultView.RowFilter = string.Format("図面番号 LIKE '%{0}%'", _Zumen);
-            if (_dtb.Rows.Count > 0)
+            if (dtgOkuri.Rows[0].Cells["注文No"].Value.ToString() == _Chumon)
             {
-                return true;
+                return true ;
+            }
+
+            //BoTjavA 2016/11/22 check duplicate
+            for (int i = 0; i < _dtb.Rows.Count; i++)
+            {
+                if (_dtb.Rows[i]["注文No"].ToString() == _Chumon)
+                {
+                    return true;
+                }
             }
             return false;
         }

@@ -19,3 +19,12 @@ C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\bin\Debug\AutoCheckAndSendRe
 C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\obj\Debug\AutoCheckAndSendReport.csproj.ResolveComReference.cache
 C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\obj\Debug\AutoCheckAndSendReport.exe
 C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\obj\Debug\AutoCheckAndSendReport.pdb
+C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\bin\Debug\AutoCheckAndSendReport.exe
+C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\bin\Debug\AutoCheckAndSendReport.pdb
+C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\obj\Debug\AutoCheckAndSendReport.csprojResolveAssemblyReference.cache
+C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\obj\Debug\AutoCheckAndSendReport.CheckBarCode.resources
+C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\obj\Debug\AutoCheckAndSendReport.CheckOkuriJou.resources
+C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\obj\Debug\AutoCheckAndSendReport.FrmMain.resources
+C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\obj\Debug\AutoCheckAndSendReport.FrmSearchData.resources
+C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\obj\Debug\AutoCheckAndSendReport.Properties.Resources.resources
+C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\obj\Debug\AutoCheckAndSendReport.csproj.GenerateResource.Cache

@@ -210,7 +210,7 @@ namespace AutoCheckAndSendReport
                 //Check ngao
                 
                 string SheetName = dtb.Rows[0]["TABLE_NAME"].ToString();
-                if (SheetName == "Sheet1$_xlnm#_FilterDatabase")
+                if (SheetName == "_xlnm#_FilterDatabase")
                 {
                      SheetName = dtb.Rows[1]["TABLE_NAME"].ToString();
                 }

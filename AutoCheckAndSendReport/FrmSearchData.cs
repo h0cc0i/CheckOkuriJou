@@ -361,6 +361,12 @@ namespace AutoCheckAndSendReport
                 DataTable _result = _dtbtemp.Select(" 注文№ LIKE '%" + _ChuuMon + "%' AND 受注№ LIKE '%" + _Juchuu + "%' AND 図面番号 LIKE '%" + _Zuban + "%'").CopyToDataTable();
                 dtgListSource.DataSource = _result;
             }
+            else
+            {
+                //BotJava 2016/11/22 add else 
+                dtgListSource.DataSource = null;
+                lblCount.Text = string.Empty;
+            }
 
         }
 
