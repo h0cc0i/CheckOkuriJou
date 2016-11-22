@@ -15,3 +15,7 @@ E:\GITHUB\AutoCheckAndSenReport\AutoCheckAndSendReport\CheckOkuriJou\AutoCheckAn
 E:\GITHUB\AutoCheckAndSenReport\AutoCheckAndSendReport\CheckOkuriJou\AutoCheckAndSendReport\obj\Debug\AutoCheckAndSendReport.csproj.ResolveComReference.cache
 E:\GITHUB\AutoCheckAndSenReport\AutoCheckAndSendReport\CheckOkuriJou\AutoCheckAndSendReport\obj\Debug\AutoCheckAndSendReport.exe
 E:\GITHUB\AutoCheckAndSenReport\AutoCheckAndSendReport\CheckOkuriJou\AutoCheckAndSendReport\obj\Debug\AutoCheckAndSendReport.pdb
+C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\bin\Debug\AutoCheckAndSendReport.exe.config
+C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\obj\Debug\AutoCheckAndSendReport.csproj.ResolveComReference.cache
+C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\obj\Debug\AutoCheckAndSendReport.exe
+C:\ProgramData\CheckOkuriJou\AutoCheckAndSendReport\obj\Debug\AutoCheckAndSendReport.pdb

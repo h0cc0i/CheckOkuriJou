@@ -20,6 +20,7 @@ namespace AutoCheckAndSendReport
         System.Data.DataTable _dtbDes = new System.Data.DataTable();
         System.Data.DataTable _dtbExtend = new System.Data.DataTable();
         #endregion
+        //buon ngu vl
         public CheckOkuriJou()
         {
             InitializeComponent();
