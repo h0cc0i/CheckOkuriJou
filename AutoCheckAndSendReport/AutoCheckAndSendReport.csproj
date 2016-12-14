@@ -160,6 +160,7 @@
     </COMReference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Resources\ftprush_install.ico" />
     <None Include="Resources\search.png" />
     <None Include="Resources\open-file-icon.png" />
     <None Include="Resources\Excel-icon.png" />
